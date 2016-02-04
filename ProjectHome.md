@@ -1,0 +1,1 @@
+I'm planning to get this project to be the most complete e-commerce solution available open source.
